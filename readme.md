@@ -166,17 +166,17 @@ def bounding_box(mask):
 
 ## Çıktılar:
 
-![out_3.jpg](Robotik%20Yar%C4%B1s%CC%A7malar%C4%B1%20ic%CC%A7in%20Basit%20Nesne%20Tan%C4%B1ma%2079aa0b66af8d4466815f5a516e6d829e/out_3.jpg)
+![out_3.jpg](https://github.com/emirsglm/Robotik-Yarismalari-incin-Basit-Nesne-Tanima/blob/main/images_for_readme/out_3.jpg)
 
-![out_4.jpg](Robotik%20Yar%C4%B1s%CC%A7malar%C4%B1%20ic%CC%A7in%20Basit%20Nesne%20Tan%C4%B1ma%2079aa0b66af8d4466815f5a516e6d829e/out_4.jpg)
+![out_4.jpg](https://github.com/emirsglm/Robotik-Yarismalari-incin-Basit-Nesne-Tanima/blob/main/images_for_readme/out_4.jpg)
 
-![out_5.jpg](Robotik%20Yar%C4%B1s%CC%A7malar%C4%B1%20ic%CC%A7in%20Basit%20Nesne%20Tan%C4%B1ma%2079aa0b66af8d4466815f5a516e6d829e/out_5.jpg)
+![out_5.jpg](https://github.com/emirsglm/Robotik-Yarismalari-incin-Basit-Nesne-Tanima/blob/main/images_for_readme/out_5.jpg)
 
-![out_2.jpg](Robotik%20Yar%C4%B1s%CC%A7malar%C4%B1%20ic%CC%A7in%20Basit%20Nesne%20Tan%C4%B1ma%2079aa0b66af8d4466815f5a516e6d829e/out_2.jpg)
+![out_2.jpg](https://github.com/emirsglm/Robotik-Yarismalari-incin-Basit-Nesne-Tanima/blob/main/images_for_readme/out_2.jpg)
 
-![out_6.jpg](Robotik%20Yar%C4%B1s%CC%A7malar%C4%B1%20ic%CC%A7in%20Basit%20Nesne%20Tan%C4%B1ma%2079aa0b66af8d4466815f5a516e6d829e/out_6.jpg)
+![out_6.jpg](https://github.com/emirsglm/Robotik-Yarismalari-incin-Basit-Nesne-Tanima/blob/main/images_for_readme/out_6.jpg)
 
-![out_1.jpg](Robotik%20Yar%C4%B1s%CC%A7malar%C4%B1%20ic%CC%A7in%20Basit%20Nesne%20Tan%C4%B1ma%2079aa0b66af8d4466815f5a516e6d829e/out_1.jpg)
+![out_1.jpg](https://github.com/emirsglm/Robotik-Yarismalari-incin-Basit-Nesne-Tanima/blob/main/images_for_readme/out_1.jpg)
 
 ## Pseudo Code:
 
@@ -292,7 +292,7 @@ ________________________________________________________________________________
 test loss: 0.41632941365242004
 test acc: 0.8341968655586243
 
-![Elde edilen loss grafiği](Robotik%20Yar%C4%B1s%CC%A7malar%C4%B1%20ic%CC%A7in%20Basit%20Nesne%20Tan%C4%B1ma%2079aa0b66af8d4466815f5a516e6d829e/indir.png)
+![Elde edilen loss grafiği](https://github.com/emirsglm/Robotik-Yarismalari-incin-Basit-Nesne-Tanima/blob/main/images_for_readme/indir.png)
 
 Elde edilen loss grafiği
 
@@ -304,11 +304,11 @@ Loss fonksiyonu olarak binary crossentropy kullanılırken RMSprop ile optimize 
 
 Eğitimi iyileştirmek için Checkpoint, Earlystopping ve ReduceLROnPlateu fonksiyonları kullanıldı
 
-![indir (1).png](Robotik%20Yar%C4%B1s%CC%A7malar%C4%B1%20ic%CC%A7in%20Basit%20Nesne%20Tan%C4%B1ma%2079aa0b66af8d4466815f5a516e6d829e/indir_(1).png)
+![indir (1).png](https://github.com/emirsglm/Robotik-Yarismalari-incin-Basit-Nesne-Tanima/blob/main/images_for_readme/indir_(1).png)
 
 tahmin: 0.00474995
 
-![indir (2).png](Robotik%20Yar%C4%B1s%CC%A7malar%C4%B1%20ic%CC%A7in%20Basit%20Nesne%20Tan%C4%B1ma%2079aa0b66af8d4466815f5a516e6d829e/indir_(2).png)
+![indir (2).png](https://github.com/emirsglm/Robotik-Yarismalari-incin-Basit-Nesne-Tanima/blob/main/images_for_readme/indir_(2).png)
 
 Tahmin : 0.9429692
 
